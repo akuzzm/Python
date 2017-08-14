@@ -1,0 +1,10 @@
+class Boxer:
+    weight = 100
+    height = 200
+
+def __is_boxer__():
+    if weight >100 and height >200:
+     return True
+    else:
+      return False
+    
